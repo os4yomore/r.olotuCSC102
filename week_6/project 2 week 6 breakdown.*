@@ -1,0 +1,17 @@
+Cadbury Nigeria Plc manufactures and sells branded fast moving consumer goods to the Nigerian market and exports in West Africa. 
+The Company produces intermediate products, such as cocoa butter, liquor, cake and powder.
+It exports cocoa butter, cake and liquor to international customers, and cocoa powder locally. 
+It operates through three segments: 
+
+Refreshment Beverages: The Refreshment Beverages segment includes the manufacture and sale of Bournvita and Hot Chocolate. The Refreshment Beverages' brands include CADBURY BOURNVITA and CADBURY 3-in-1 HOT CHOCOLATE.
+
+
+Confectionery: The Confectionery segment includes the manufacture and sale of Tom Tom and Buttermint. The Confectionery's brands include TOMTOM CLASSIC, TOMTOM STRAWBERRY and BUTTERMINT
+
+
+Intermediate Cocoa Products : The Intermediate Cocoa Products segment includes the manufacture and sale of cocoa powder, cocoa butter, cocoa liquor and cocoa cake. The Intermediate Cocoa Products' brands include COCOA POWDER and COCOA BUTTER.
+
+ 
+
+
+You have been employed as an expert python developer to create a program to document the consumption categories of their products and brands. Using your knowledge of Pandas DataFrames develop the program that saves the list of products (export, segments and brands) in a .csv excel file.
